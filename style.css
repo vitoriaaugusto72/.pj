@@ -1,0 +1,12 @@
+@import url("estilos/header.css");
+@import url("estilos/corpo.css");
+
+:root{
+    --fundo: rgb(255,255,255);
+    --fonte: "Poppins";
+}
+
+body{
+    background-color: (var(--fundo));
+    font-family: (var(--fonte));
+}
