@@ -133,4 +133,57 @@ body{
   .form button:hover {
     background: rgba(88,104,191, 0.5);
   }
- 
+ .cabecalho{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: flex;
+    background-color: rgb(243, 225, 59);
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: flex;
+    padding: 40px;
+}
+
+.container__imagem{
+    width: 50px;
+    height: 50px;
+}
+
+
+.cabecalho__titulo{
+    color: rgb(0, 0, 0);
+    font-size: x-large;
+    justify-content: center;
+    font-family: 'poppins', sans-serif;
+}
+
+.container-fluid{
+    font-family: 'poppins', sans-serif;
+}
+.container-fluid li, .menu li{
+    position: relative;
+    float: left;
+    border-right: 1px solid #000000
+}
+.container-fluid li a, .menu li a{
+    text-decoration: none;
+    color:#000000;
+    padding: 5px 6px;
+    display:block;
+}
+.container-fluid li a:hover, .menu li a:hover{
+    background:rgb(255, 254, 254)
+}
+.container-fluid li ul, .menu li ul{
+    position: absolute;
+    background-color: rgb(247, 247, 247);
+    display: none;
+}
+.container-fluid li:hover ul, .menu li.over ul{
+    display: block;
+}
