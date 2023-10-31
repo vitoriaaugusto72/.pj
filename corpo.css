@@ -19,6 +19,19 @@
 .alunos1, .alunos2, .alunos3, .alunos4{
     width: 150px;
 }
+.al1, .al2, .al3, .al4{
+    display: flex;
+    align-items: center;
+    justify-content: align;
+    text-align: justify;
+    flex-direction: column;
+    padding: 25px;
+    background-color: rgb(241, 241, 227);
+    width: auto;
+    font-size: 2vw;
+    color: rgb(16, 185, 190);
+    font-family: 'poppins', sans-serif;
+}
 .alunos4{
     width:150px;
     height: 150px;
