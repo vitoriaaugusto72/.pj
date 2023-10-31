@@ -73,7 +73,7 @@
     padding: 25px;
     background-color: rgb(241, 241, 227);
     width: auto;
-    font-size: max(18px, 1.5vw);
+    font-size: 2vw;
     color: rgb(16, 185, 190);
     font-family: 'poppins', sans-serif;
 }
