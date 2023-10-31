@@ -24,7 +24,7 @@
     height: 150px;
 }
 
-.corpo_sinapseeletrica, .corpo_sinapsequimica, .corpo_corpocelular, .corpo_conceitosgerais{
+.corpo_sinapseeletrica, .corpo_sinapsequimica, .corpo_corpocelular, .corpo_conceitosgerais, .corpo__texto{
     display: flex;
     align-items: center;
     justify-content: align;
