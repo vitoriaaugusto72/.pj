@@ -6,19 +6,10 @@
     flex-direction: column;
     padding: 25px;
     background-color: rgb(241, 241, 227);
-    width: 4vw;
+    width: auto;
 }
 
-.corpo_direito{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    text-align: justify;
-    flex-direction: column;
-    padding: 25px;
-    background-color: rgb(241, 241, 227);
-    width: 4vw;
-}
+
 
 .video1, .video2, .video3, .video4{
      width: 300px;
@@ -72,7 +63,7 @@
 
 .form {
     font-family: Helvetica, sans-serif;
-    max-width: 2vw;
+    max-width: auto;
     margin: 0 auto;
     padding: 16px;
     background: #f7f7f7;
