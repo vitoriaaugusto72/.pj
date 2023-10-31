@@ -59,7 +59,7 @@
     height: 150px;
 }
 
-.corpo__texto, .corpo_sinapseeletrica, .corpo_sinapsequimica, .corpo_corpocelular, .corpo_conceitosgerais{
+.corpo__texto, .corpo_sinapseeletrica, .corpo_sinapsequimica, .corpo_corpocelular, .corpo_conceitosgerais, .corpo__texto{
     display: flex;
     align-items: center;
     justify-content: align;
@@ -72,7 +72,7 @@
     color: rgb(16, 185, 190);
     font-family: 'poppins', sans-serif;
 }
-.titulo_sinapsequimica, .corpocelular_titulo, .conceitosgerais_titulo, .titulo_sinapseeletrica{
+.titulo_sinapsequimica, .corpocelular_titulo, .conceitosgerais_titulo, .titulo_sinapseeletrica, .componentes, .corpo_titulo{
     display: flex;
     align-items: center;
     justify-content: align;
