@@ -33,11 +33,11 @@
     padding: 25px;
     background-color: rgb(241, 241, 227);
     width: auto;
-    font-size: 1.5vw;
+    font-size: 2vw;
     color: rgb(16, 185, 190);
     font-family: 'poppins', sans-serif;
 }
-.componentes, .corpo__texto{
+.componentes{
     display: flex;
     align-items: center;
     justify-content: align;
@@ -46,7 +46,7 @@
     padding: 25px;
     background-color: rgb(241, 241, 227);
     width: auto;
-    font-size: 1.5vw;
+    font-size: 2vw;
     color: rgb(16, 185, 190);
     font-family: 'poppins', sans-serif;
 }
@@ -59,7 +59,7 @@
     padding: 25px;
     background-color: rgb(241, 241, 227);
     width: auto;
-    font-size: 2vw;
+    font-size: 3vw;
     color: rgb(16, 185, 190);
     font-family: 'poppins', sans-serif;
 }
@@ -72,7 +72,7 @@
     padding: 25px;
     background-color: rgb(241, 241, 227);
     width: auto;
-    font-size: 2vw;
+    font-size: 3vw;
     color: rgb(16, 185, 190);
     font-family: 'poppins', sans-serif;
 }
