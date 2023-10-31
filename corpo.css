@@ -72,7 +72,7 @@
     color: rgb(16, 185, 190);
     font-family: 'poppins', sans-serif;
 }
-titulo_sinapsequimica, .titulo_corpocelular, .titulo_conceitosgerais, .titulo_sinapseeletrica{
+.titulo_sinapsequimica, .corpocelular_titulo, .conceitosgerais_titulo, .titulo_sinapseeletrica{
     display: flex;
     align-items: center;
     justify-content: align;
