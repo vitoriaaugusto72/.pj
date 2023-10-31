@@ -37,7 +37,7 @@
     height: 150px;
 }
 
-.corpo_sinapseeletrica, .corpo_sinapsequimica, .corpo_corpocelular, .corpo_conceitosgerais, .corpo__texto{
+.corpo_sinapseeletrica, .corpo_sinapsequimica, .corpo_corpocelular, .corpo_conceitosgerais, .corpo__texto, .corpo_dendritos, .corpo_axonio{
     display: flex;
     align-items: center;
     justify-content: align;
@@ -76,7 +76,7 @@
     color: rgb(16, 185, 190);
     font-family: 'poppins', sans-serif;
 }
-.sinapsequimica_titulo, .corpocelular_titulo, .conceitosgerais_titulo, .sinapseeletrica_titulo{
+.sinapsequimica_titulo, .corpocelular_titulo, .conceitosgerais_titulo, .sinapseeletrica_titulo, .dendritos_titulo, .axonio_titulo{
     display: flex;
     align-items: center;
     justify-content: align;
