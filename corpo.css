@@ -61,7 +61,7 @@
     width:150px;
     height: 150px;
 }
-.texto_sinapseeletrica, .texto_sinapsequimica, .texto_corpocelular, .texto_conceitosgerais{
+.corpo__texto, .texto_sinapseeletrica, .texto_sinapsequimica, .texto_corpocelular, .texto_conceitosgerais{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -70,7 +70,7 @@
     padding: 25px;
     background-color: rgb(241, 241, 227);
     width: auto;
-    font-size: 18px;
+    font-size: 2vw;
     color: rgb(16, 185, 190);
     font-family: 'poppins', sans-serif;
 }
