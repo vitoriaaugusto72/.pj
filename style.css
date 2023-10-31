@@ -10,7 +10,7 @@ body{
     background-color: (var(--fundo));
     font-family: (var(--fonte));
 }
-.corpo{
+.corpo__texto, .componentes{
     display: flex;
     align-items: center;
     justify-content: align;
@@ -20,6 +20,19 @@ body{
     background-color: rgb(241, 241, 227);
     width: auto;
     font-size: 1.5vw;
+    color: rgb(16, 185, 190);
+    font-family: 'poppins', sans-serif;
+}
+.corpo_titulo{
+    display: flex;
+    align-items: center;
+    justify-content: align;
+    text-align: justify;
+    flex-direction: column;
+    padding: 25px;
+    background-color: rgb(241, 241, 227);
+    width: auto;
+    font-size: 2vw;
     color: rgb(16, 185, 190);
     font-family: 'poppins', sans-serif;
 }
