@@ -28,12 +28,6 @@
     justify-content: center;
 }
 
-.corpo__texto, .componentes, .texto_sinapseeletrica{
-    font-size: 18px;
-    color: rgb(16, 185, 190);
-    width: 4vw;
-    font-family: 'poppins', sans-serif;
-}
 
 .corpo__imagem{
     align-items: center;
@@ -64,10 +58,11 @@
     width:150px;
     height: 150px;
 }
+
 .corpo__texto, .texto_sinapseeletrica, .texto_sinapsequimica, .texto_corpocelular, .texto_conceitosgerais{
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: align;
     text-align: justify;
     flex-direction: column;
     padding: 25px;
@@ -77,6 +72,7 @@
     color: rgb(16, 185, 190);
     font-family: 'poppins', sans-serif;
 }
+
 .form {
     font-family: Helvetica, sans-serif;
     max-width: 2vw;
