@@ -1,5 +1,5 @@
-@import url("/css/header.css");
-@import url("/css/corpo.css");
+@import url("./css/header.css");
+@import url("./css/corpo.css");
 
 :root{
     --fundo: rgb(255,255,255);
