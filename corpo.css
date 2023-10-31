@@ -1,4 +1,4 @@
-*{
+.corpo{
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -14,10 +14,6 @@
 .video1, .video2, .video3, .video4{
      width: 300px;
     height: 150px;
-}
-.corpo__video{
-    width: 150px;
-    height: 300px;
 }
 
 .alunos1, .alunos2, .alunos3, .alunos4{
