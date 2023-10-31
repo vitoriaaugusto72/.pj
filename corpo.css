@@ -57,6 +57,9 @@
 .alunos1, .alunos2, .alunos3, .alunos4{
     width: 150px;
 }
+.alunos4{
+    width:150px;
+}
 .texto_sinapseeletrica, .texto_sinapsequimica, .texto_corpocelular, .texto_conceitosgerais{
     display: flex;
     align-items: center;
